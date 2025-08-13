@@ -14,8 +14,9 @@
 <p align="center">
   Aplicación en JavaScript para organizar sorteos de amigo secreto de forma sencilla y divertida.
     <br />
-    <br />
-    <br />
+  <br />
+    <a href="https://sumrug.github.io/Amigo-Secreto/"><strong>🌐 Ver página en vivo</strong></a>
+    <br /><br />
     &middot;
     <a href="https://github.com/SumRug/Amigo-Secreto/issues/new?labels=bug&template=bug-report---.md">Reportar un bug</a>
     &middot;
@@ -44,7 +45,6 @@
     <li><a href="#Contacto">Contacto</a></li>
   </ol>
 </details>
-
 
 
 <!-- ABOUT THE PROJECT -->
@@ -94,6 +94,7 @@ Abre el archivo index.html en tu navegador.
 
 <!-- USAGE EXAMPLES -->
 ## 💻 Uso
+<a href="https://sumrug.github.io/Amigo-Secreto/"><strong>🌐 Ver página en vivo</strong></a>
 
 1. **Ingresa el nombre de un participante en el campo de texto**
 
