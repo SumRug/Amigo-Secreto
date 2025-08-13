@@ -1,30 +1,21 @@
 
 <a id="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![project_license][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/SumRug/Amigo-Secreto">
+    <img src="assets/icon.png" alt="Logo" >
   </a>
 
 <h3 align="center">🎁 Amigo Secreto</h3>
 <p align="center">
   Aplicación en JavaScript para organizar sorteos de amigo secreto de forma sencilla y divertida.
     <br />
-    <a href="https://github.com/SumRug/Amigo-Secreto"><strong>Explora la documentación »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/SumRug/Amigo-Secreto">Ver Demo</a>
     &middot;
     <a href="https://github.com/SumRug/Amigo-Secreto/issues/new?labels=bug&template=bug-report---.md">Reportar un bug</a>
     &middot;
@@ -58,8 +49,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Acerca del proyecto
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 **Amigo Secreto** es una aplicación ligera y rápida desarrollada en **JavaScript**, que permite realizar sorteos de amigo secreto de manera justa y aleatoria.  
 Es ideal para eventos familiares, reuniones de trabajo o celebraciones con amigos.
@@ -104,15 +93,25 @@ Abre el archivo index.html en tu navegador.
 
 
 <!-- USAGE EXAMPLES -->
-## Uso
+## 💻 Uso
 
-1.-Ingresa el nombre de un participante en el campo de texto.
+1. **Ingresa el nombre de un participante en el campo de texto**
 
-2.-Pulsa Agregar para sumarlo a la lista.
+ 
+   ![Ingresar nombre](assets/nombreIngresar.png)
+   
 
-3.-Cuando todos estén añadidos, presiona Sortear.
+3. **Pulsa _Agregar_ para sumarlo a la lista**
 
-4.-El sistema asignará un amigo secreto de forma aleatoria.
+   ![Lista de participantes](assets/Lista.png)
+
+5. **Cuando todos estén añadidos, presiona _Sortear_**  
+
+
+6. **El sistema asignará un amigo secreto de forma aleatoria**  
+   *(Ejemplo de resultado final)*  
+   ![Resultado del sorteo](assets/Amig.png)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
